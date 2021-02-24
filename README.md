@@ -45,6 +45,3 @@ Cocorico is released under the [MIT license](LICENSE).
 ## About Us
 
 Cocorico is a creation of [Cocolabs](https://www.cocolabs.com/en/?utm_source=github&utm_medium=cocorico-page&utm_campaign=organic) specialist of online services sales solutions.
-
-
-# How To Install and Setup Cocorico on Ubuntu 20.04 from [cocorico-docker](https://github.com/Cocolabs-SAS/cocorico-docker)
